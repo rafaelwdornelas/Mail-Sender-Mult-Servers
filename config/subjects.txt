@@ -1,0 +1,5 @@
+Pedido e Fatura
+Pedido e faturamento
+Faturamento e pedido
+Segue pedido
+Segue fatura
