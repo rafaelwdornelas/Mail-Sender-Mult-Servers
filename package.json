@@ -1,0 +1,17 @@
+{
+  "name": "PHPsenderMailer",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "^4.1.2",
+    "dotenv": "^16.0.1",
+    "fs": "^0.0.1-security",
+    "html-minifier": "^4.0.0",
+    "line-by-line": "^0.1.6",
+    "querystring": "^0.2.1",
+    "randomstring": "^1.2.2",
+    "request": "^2.88.2",
+    "worker-farm": "^1.7.0"
+  }
+}
